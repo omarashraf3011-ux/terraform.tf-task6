@@ -1,0 +1,23 @@
+total 40
+-rw-r--r--    1 apple  staff      0 Jul 25 11:37 3
+drwx------@   4 apple  staff    128 Nov 10  2024 Applications
+drwxr-xr-x   10 apple  staff    320 Jul  6 15:06 Cisco Packet Tracer 8.2.2
+drwx------+  48 apple  staff   1536 Jul 25 09:23 Desktop
+drwx------+   3 apple  staff     96 Dec 28  2023 Documents
+drwx------+ 387 apple  staff  12384 Jul 24 09:02 Downloads
+drwx------@  93 apple  staff   2976 Jul 17 07:25 Library
+drwx------+   5 apple  staff    160 Mar 31  2024 Movies
+drwx------+   4 apple  staff    128 Dec 29  2023 Music
+drwx------+   6 apple  staff    192 Mar 23  2024 Pictures
+drwxr-xr-x+   4 apple  staff    128 Dec 28  2023 Public
+-rw-r--r--@   1 apple  staff    980 Mar 24  2024 Untitled.txt
+-rw-r--r--@   1 apple  staff    740 Mar 24  2024 Untitled1.txt
+-rw-r--r--    1 apple  staff      0 Jul 25 14:40 back-up-script
+-rw-r--r--@   1 apple  staff      0 Jul 25 14:39 back_up_test
+drwxr-xr-x    3 apple  staff     96 Jul 25 14:38 backupserver
+drwx------    5 apple  staff    160 Apr  1  2024 iCloud Drive (Archive)
+drwxr-xr-x    6 apple  staff    192 Jul 25 14:57 mainserver
+-rwxr-xr-x    1 apple  staff     40 Jul 18 18:14 omar
+-rw-r--r--    1 apple  staff      0 Jul 26 13:49 omar.txt
+-rwxr-xr-x    1 apple  staff    269 Jul 25 11:45 test.sh
+-rw-r--r--    1 apple  staff    165 Jul 25 14:58 vim back_up_test
